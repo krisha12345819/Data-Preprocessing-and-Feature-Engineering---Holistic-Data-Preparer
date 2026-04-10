@@ -209,6 +209,6 @@ jupyter notebook Customer_Credit_Risk_Data_Preprocessing.ipynb
 
 <div align="center">
 
-Made with ❤️ | Data Science Final Project | *"Quality is our Motto."*
+Made with ❤️ | Data Science Final Project 
 
 </div>
